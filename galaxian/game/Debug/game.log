@@ -1,0 +1,23 @@
+﻿  main.cpp
+  MyGame.cpp
+h:\desktop\galaxian1\game\mygame.cpp(548): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+h:\desktop\galaxian1\game\mygame.cpp(712): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\galaxian1\game\mygame.cpp(726): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\galaxian1\game\mygame.cpp(736): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\galaxian1\game\mygame.cpp(749): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\galaxian1\game\mygame.cpp(753): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\galaxian1\game\mygame.cpp(755): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\galaxian1\game\mygame.cpp(768): warning C4244: 'argument': conversion from 'double' to 'Sint32', possible loss of data
+h:\desktop\galaxian1\game\mygame.cpp(1021): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\galaxian1\game\mygame.cpp(1032): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\galaxian1\game\mygame.cpp(1043): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\galaxian1\game\mygame.cpp(1056): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+h:\desktop\galaxian1\game\mygame.cpp(1148): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+h:\desktop\galaxian1\game\mygame.cpp(1149): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+h:\desktop\galaxian1\game\mygame.cpp(1233): warning C4244: 'argument': conversion from 'long' to 'Uint8', possible loss of data
+h:\desktop\galaxian1\game\mygame.cpp(1239): warning C4244: 'argument': conversion from 'long' to 'Uint8', possible loss of data
+h:\desktop\galaxian1\game\mygame.cpp(1245): warning C4244: 'argument': conversion from 'long' to 'Uint8', possible loss of data
+h:\desktop\galaxian1\game\mygame.cpp(1382): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+MSVCRTD.lib(initializers.obj) : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+  game.vcxproj -> H:\Desktop\galaxian1\Debug\game.exe
+  game.vcxproj -> H:\Desktop\galaxian1\Debug\game.pdb (Full PDB)
